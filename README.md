@@ -1,94 +1,46 @@
-# # Hi 👋, I'm Raghavendra Kumar Meerneedi
+# 👋 Hi, I’m Raghavendra Kumar Meerneedi
 
-🎓 Master's Student at St. Ambrose University (SAU)  
-💻 Aspiring Data Engineer | Data Analytics | AI Enthusiast  
-📍 Based in USA  
-🚀 Passionate about building scalable data pipelines and AI-driven solutions
+🎯 A passionate and driven professional with expertise in **Data Engineering, Data Analytics, Business Intelligence, and Artificial Intelligence.**
 
----
+I’m passionate about using data and AI to uncover insights, improve processes, and develop impactful solutions.
 
-## 👨‍💻 About Me
+## 👀 I’m interested in
 
-I am a data-focused professional with interests in Data Engineering, Business Intelligence, Artificial Intelligence, and Cloud technologies. I enjoy solving complex problems using data and creating efficient systems that deliver meaningful insights.
+📊 **Data Engineering:** Designing scalable ETL pipelines and efficient data architectures.
 
----
+📈 **Business Analytics:** Transforming data into meaningful insights for strategic decision-making.
 
-## 🔍 I'm interested in
+🤖 **Artificial Intelligence:** Exploring AI and machine learning solutions for automation and predictive analytics.
 
-- Data Engineering
-- Big Data Technologies
-- Artificial Intelligence
-- Machine Learning
-- Business Intelligence
-- Cloud Platforms
-- ETL Pipeline Development
-- Data Visualization
+📉 **Data Visualization:** Building interactive dashboards and visual reports using Power BI and Tableau.
+
+☁️ **Cloud & Big Data:** Working with Azure, AWS, Databricks, Spark, and modern data platforms.
 
 ---
 
-## 🌱 I'm currently learning
+## 🌱 I’m currently learning
 
-- Advanced Data Engineering concepts
-- Snowflake
-- Apache Spark
-- Azure Databricks
-- AI-driven data solutions
+Advanced Machine Learning techniques
+AI-driven tools and methodologies for data-driven decision-making
 
 ---
 
-## 🤝 I'm looking to collaborate on
+## 💞️ I’m looking to collaborate on
 
-- Data Engineering projects
-- ETL pipelines
-- AI and Machine Learning projects
-- Business Analytics solutions
-- Open-source projects
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-- Python
-- SQL
-- Java
-
-### Data Engineering Tools
-- Apache Spark
-- Hadoop
-- ETL
-- Snowflake
-- Databricks
-
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-
-### Visualization Tools
-- Power BI
-- Tableau
-
-### Cloud Technologies
-- Azure
-- AWS
+ Data Engineering and ETL pipeline projects
+AI and Machine Learning applications
+ Business Intelligence and Analytics projects
+ Data visualization and dashboard development
+ Open-source projects involving data and cloud technologies
 
 ---
 
-## 📊 GitHub Stats
+## 📫 How to reach me
 
-![Raghavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+📧 Email: **[mraghu2437@gmail.com](mailto:mraghu2437@gmail.com)**
+📞 Phone: +13125154736
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 📫 Connect with me
-
-📧 Email: mraghu2437@gmail.com  
-
-💼 LinkedIn: www.linkedin.com/in/your-linkedin-profile
 
 ---
 
-⭐ Always learning and building impactful solutions with data.
+⭐ *Passionate about building scalable data solutions and turning data into actionable insights.*
